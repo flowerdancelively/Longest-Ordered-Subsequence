@@ -32,6 +32,9 @@ int main()
 		
 	} 
 	cout << b[n-1] << endl;
+	delete [] a;
+	delete [] b;
+	delete [] c;
 	return 0;
 }
 
