@@ -32,7 +32,6 @@ int main()
 		
 	} 
 	cout << b[n-1] << endl;
-	Sleep(9000);
 	return 0;
 }
 
